@@ -4,7 +4,12 @@ This project aims to gather works and ideas about the Pantanal Dev project, focu
 https://pantanal.dev/
 
 Basement: <br>
-https://www.kaggle.com/code/rajkumarpandey02/ml-credit-card-fraud-detection
+https://www.kaggle.com/code/rajkumarpandey02/ml-credit-card-fraud-detection <br>
+https://imbalanced-learn.org/stable/index.html <br>
+https://scikit-learn.org/stable/ <br>
+https://builtin.com/data-science/train-test-split <br>
+https://www.youtube.com/watch?v=kZNkaNATmd8 <br>
+https://didatica.tech/o-que-e-e-como-funciona-o-algoritmo-knn/)
 
 Acknowledgement: <br>
 Jonathan Andrade Silva
