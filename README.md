@@ -9,7 +9,11 @@ https://imbalanced-learn.org/stable/index.html <br>
 https://scikit-learn.org/stable/ <br>
 https://builtin.com/data-science/train-test-split <br>
 https://www.youtube.com/watch?v=kZNkaNATmd8 <br>
-https://didatica.tech/o-que-e-e-como-funciona-o-algoritmo-knn/)
+https://didatica.tech/o-que-e-e-como-funciona-o-algoritmo-knn/ <br>
+https://medium.com/psicodata/simples-e-direto-um-guia-de-visualizacao-de-dados-com-python-7d39c95ca343 <br>
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.hist.html <br>
+https://seaborn.pydata.org/generated/seaborn.distplot.html <br>
+https://medium.com/data-hackers/tratamento-e-transforma%C3%A7%C3%A3o-de-dados-nan-uma-vis%C3%A3o-geral-e-pr%C3%A1tica-54efa9fc7a98
 
 Acknowledgement: <br>
 Jonathan Andrade Silva
