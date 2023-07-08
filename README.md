@@ -23,7 +23,7 @@ https://seaborn.pydata.org/generated/seaborn.violinplot.html?highlight=violin+pl
 
 
 Acknowledgement: <br>
-Jonathan Andrade Silva 👨‍🏫
+[Jonathan Andrade Silva](https://www.linkedin.com/in/jonathan-andrade-silva-6595b421/) 👨‍🏫
 
 Technologies: <br><br>
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
